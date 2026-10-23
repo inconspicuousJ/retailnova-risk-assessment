@@ -2,7 +2,7 @@
 
 A cybersecurity risk assessment I wrote for **RetailNova Pty Ltd**, a Melbourne-based retailer used as a case study. This is not a real client engagement.
 
-**Prepared by:** Jamal Bekkouche-Henrys
+**Prepared by:** Jamal Bekkouche-Henry
 
 **Report date:** 30 July 2026
 
