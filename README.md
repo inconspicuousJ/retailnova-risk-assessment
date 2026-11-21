@@ -17,7 +17,6 @@ A cybersecurity risk assessment I wrote for **RetailNova Pty Ltd**, a Melbourne-
 ## Files
 
 - `RetailNova_Cybersecurity_Risk_Assessment.pdf`: the full report (6 pages)
-- `RetailNova_Cybersecurity_Risk_Assessment.docx`: editable version
 
 ## Notes
 
